@@ -24,6 +24,19 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+       
+![Screenshot 2024-04-13 090738](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/7250a99e-ed2a-428f-a726-8ae1929a5ed8)
+![Screenshot 2024-04-13 090810](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/f5a61f54-f512-4c18-9623-cd778e5a958e)
+![Screenshot 2024-04-13 090848](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/fc54b36b-fd31-4448-886e-3aa07d86f77c)
+![Screenshot 2024-04-13 090917](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/ea0f1127-b60e-4273-a579-9d365005fd71)
+![Screenshot 2024-04-13 090937](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/1959d24a-a67d-4c9d-aade-eeaf66cad833)
+![Screenshot 2024-04-13 091001](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/cf9844f0-2a7d-46b9-82aa-b41233077000)
+![Screenshot 2024-04-13 091026](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/445d5638-b27b-4f76-b360-c1fa1aa18254)
+![Screenshot 2024-04-13 091142](https://github.com/Aaron-I/EXNO-4-DS/assets/139863034/780b1a8a-92a5-434f-824a-9578b187f6b0)
+
+
+       
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+Thus perform Feature Scaling and Feature Selection process and save the data to a file successfully.
+      
